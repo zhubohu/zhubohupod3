@@ -1,0 +1,22 @@
+{
+  "name": "zhubohupod3",
+  "version": "0.1.0",
+  "summary": "A short description of zhubohupod3.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zhubohu@163.com/zhubohupod3",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhubohu@163.com": "zhubohu@100tal.com"
+  },
+  "source": {
+    "git": "https://github.com/zhubohu@163.com/zhubohupod3.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "zhubohupod3/Classes/**/*"
+}

@@ -1,0 +1,16 @@
+PODS:
+  - zhubohupod3 (0.1.0)
+
+DEPENDENCIES:
+  - zhubohupod3 (from `../`)
+
+EXTERNAL SOURCES:
+  zhubohupod3:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  zhubohupod3: bb625b51ce384920cd62a7b1275e2bddbbc2ebae
+
+PODFILE CHECKSUM: 1722a4fc48711de30dbba3ab840a67406766777a
+
+COCOAPODS: 1.8.4

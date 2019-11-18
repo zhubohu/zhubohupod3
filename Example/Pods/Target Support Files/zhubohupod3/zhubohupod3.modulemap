@@ -1,0 +1,6 @@
+framework module zhubohupod3 {
+  umbrella header "zhubohupod3-umbrella.h"
+
+  export *
+  module * { export * }
+}
